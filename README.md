@@ -85,8 +85,7 @@ Currently based in Medellín, Colombia 🇨🇴. Cat lover 🐾 and self-taught 
 
 ### 📬 Let's Connect  
 
-- [LinkedIn](https://www.linkedin.com/in/dmcewenar)  
-- [GitHub](https://github.com/mcewenar)  
+- [LinkedIn](https://www.linkedin.com/in/dmcewenar)
 - Email: **dmcewena@hotmail.com**  
 
 ---
