@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm David Mc Ewen
+# I'm David Mc Ewen
 
 ### 🧑‍💻 About Me  
 I'm a **Software Engineer** with 4+ years of experience building scalable, high-value solutions for the financial, insurance, and e-commerce industries.  
